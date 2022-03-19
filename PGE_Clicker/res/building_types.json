@@ -1,0 +1,52 @@
+[
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 16.0,
+    "base_cps": 1.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 256.0,
+    "base_cps": 8.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 1024.0,
+    "base_cps": 32.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 65536.0,
+    "base_cps": 47.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 130000.0,
+    "base_cps": 260.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 1400000.0,
+    "base_cps": 1400.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 20000000.0,
+    "base_cps": 7800.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 330000000.0,
+    "base_cps": 44000.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 5100000000.0,
+    "base_cps": 260000.0
+  },
+  {
+    "name": "PLACEHOLDER",
+    "base_cost": 75000000000.0,
+    "base_cps": 1600000.0
+  }
+]
